@@ -1,0 +1,16 @@
+# Instaladores e imagens de disco grandes: manter localmente ou em Releases/LFS.
+*.dmg
+*.zip
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.opus
+*.aac
+
+# Saídas geradas pela separação.
+outputs/
+models/
+__pycache__/
+.DS_Store
